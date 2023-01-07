@@ -1,2 +1,2 @@
 echo "pull continuously"
-git pull sunny example
+git pull sunny main
